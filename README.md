@@ -18,4 +18,4 @@ This is a basic banking website created using HTML, CSS, and JavaScript. The pur
 
 ## Getting Started
 
-visit webpage here : https://656b6c51cf0cf569f349eb30--dashing-griffin-c16b7c.netlify.app/
+visit webpage here : https://salman-banking-c16b7c.netlify.app
